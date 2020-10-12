@@ -26,9 +26,6 @@ public class MoreStreamPractice {
         System.out.println(Arrays.toString(arrayOfString));
         System.out.println(Arrays.toString(array));
 
-
-
-
     }
 
 
